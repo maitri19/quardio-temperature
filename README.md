@@ -14,7 +14,7 @@ The solution is built using Java 8, Springboot, REST, maevn and Junit.
    
 ## How to run
 	
-    Extract the provided Zipped file.
+    Clone the project.
     Go to project directory.
     mvn clean install
     mvn springboot:run
